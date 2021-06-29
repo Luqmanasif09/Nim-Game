@@ -1,3 +1,4 @@
+//Nim Game
 #include<iostream>
 using namespace std;
 void my_intro(void);
